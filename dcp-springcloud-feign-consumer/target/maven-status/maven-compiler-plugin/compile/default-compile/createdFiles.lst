@@ -1,0 +1,4 @@
+com\dcp\springcloud\feigh\consumer\FeignApplication.class
+com\dcp\springcloud\feigh\consumer\intf\ConsumerClient.class
+com\dcp\springcloud\feigh\consumer\hystrix\ConsumerClientHystrix.class
+com\dcp\springcloud\feigh\consumer\ctrl\ConsumerController.class

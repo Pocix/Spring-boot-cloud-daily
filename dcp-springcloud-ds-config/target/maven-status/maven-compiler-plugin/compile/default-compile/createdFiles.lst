@@ -1,0 +1,3 @@
+com\dcp\springcloud\ds\common\BaseEntity.class
+com\dcp\springcloud\ds\common\CurdDao.class
+com\dcp\springcloud\ds\config\MybatisDataSource.class
